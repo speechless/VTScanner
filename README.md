@@ -1,2 +1,2 @@
-# VT_Scanner
+# VTScanner
 Verb Tampering Cascading Scanner
